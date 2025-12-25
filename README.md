@@ -59,3 +59,8 @@ Launch the chatbot using Streamlit:
 ```bash
 streamlit run main.py
 ```
+
+## Author
+
+**Sagnik Mukherjee**  
+[GitHub Profile](https://github.com/sagnik0712mukherjee)
